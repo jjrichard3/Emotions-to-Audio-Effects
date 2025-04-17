@@ -1,4 +1,4 @@
-# Emotions-to-Audio-Effects
+# Applications of Emotional Analysis Data on the Timbre of Sound
 
 ## Table of Contents
 - [1. Introduction](#1-introduction)
